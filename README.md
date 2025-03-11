@@ -1,4 +1,4 @@
 # project
 fisrt repo
 <br>
-author - noone
+author - noone (acadamy)
